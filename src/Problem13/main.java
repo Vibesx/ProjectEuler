@@ -22,6 +22,7 @@ public class main {
 			sum = sum.add(new BigInteger(s));
 		}
 		System.out.println(sum.toString().substring(0, 10));
+		
 	}
 	
 }
