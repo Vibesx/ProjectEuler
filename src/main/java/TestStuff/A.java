@@ -1,4 +1,4 @@
-package main.java.TestStuff;
+package TestStuff;
 
 public class A {
 	private String name;

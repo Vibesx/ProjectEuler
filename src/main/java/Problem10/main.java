@@ -1,4 +1,4 @@
-package main.java.Problem10;
+package Problem10;
 
 public class main {
 

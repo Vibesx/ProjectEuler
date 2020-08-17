@@ -1,4 +1,4 @@
-package main.java.Problem13;
+package Problem13;
 
 import java.io.IOException;
 import java.math.BigInteger;

@@ -1,4 +1,4 @@
-package main.java.Problem18;
+package Problem18;
 
 import java.io.IOException;
 import java.math.BigInteger;
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import main.java.util.ReadFromFile;
+import util.ReadFromFile;
 
 public class Problem18 {
 

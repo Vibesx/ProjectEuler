@@ -1,4 +1,4 @@
-package main.java.Misc;
+package Misc;
 /*
  * You are given 10 piles of 10 coins each. 9 of the piles have 10 grams coins, while the last has 11 grams coins. Find the heaviest pile.
  */
