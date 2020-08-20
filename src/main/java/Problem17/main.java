@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class main {
-	private static Map<Integer, Integer> numbersLength = new HashMap<>();
+	private static Map<Integer, Integer> numbersLength = new HashMap<Integer, Integer>();
 
 	public static void main(String[] args) {
 		populateNumbersLength(numbersLength);
